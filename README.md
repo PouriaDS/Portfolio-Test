@@ -10,7 +10,7 @@ Tools used
 * Python: Pandas, plotly,matplotlib
 * Excel
 
-[Fraud Detection](https://github.com/PouriaDS/Portfolio-Test/blob/main/ML%20_1Day_Project_Pouria_A.ipynb)
+[Fraud Detection](https://github.com/PouriaDS/Portfolio-Test/blob/main/Fraud%20Detection.ipynb)
 
 Notes:
 One of the most prominent use cases of anomaly detection. Nowadays, it is common to hear about events where one’s credit card number and related information get compromised.
