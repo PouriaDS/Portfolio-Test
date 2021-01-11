@@ -9,3 +9,6 @@ Tools used
 
 * Python: Pandas, plotly,matplotlib
 * Excel
+
+[Fraud Detection](https://github.com/PouriaDS/Portfolio-Test/blob/main/ML%20_1Day_Project_Pouria_A.ipynb)
+
